@@ -1,3 +1,4 @@
+# Example container for icerunner app 
 FROM php:7.4.10-apache
 
 LABEL "CustomizedBy"="Marcin Kujawski"
